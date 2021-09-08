@@ -1,0 +1,22 @@
+{
+  "name": "aqwal-store-backend",
+  "version": "1.0.0",
+  "description": "The backend for Aqwal store",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aziz039/aqwal-store-backend.git"
+  },
+  "author": "Abdulaziz Alghamdi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aziz039/aqwal-store-backend/issues"
+  },
+  "homepage": "https://github.com/Aziz039/aqwal-store-backend#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
